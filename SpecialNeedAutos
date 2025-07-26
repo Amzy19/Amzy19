@@ -1,0 +1,96 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Amz autos Cars - Buy Your Next Car Today!</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <style>
+    body { font-family: Arial, sans-serif; margin: 0; padding: 0; background: #f5f5f5; }
+    header { background: #222; color: #fff; padding: 20px; text-align: center; }
+    nav { background: #444; color: #fff; padding: 10px; text-align: center; }
+    nav a { color: #fff; margin: 0 15px; text-decoration: none; }
+    .container { max-width: 900px; margin: 30px auto; background: #fff; padding: 20px; border-radius: 8px; }
+    h2 { color: #333; }
+    table { width: 100%; border-collapse: collapse; margin-top: 20px; }
+    th, td { padding: 10px; border-bottom: 1px solid #ddd; text-align: left; }
+    th { background: #eee; }
+    .contact-form { margin-top: 30px; }
+    .contact-form input, .contact-form textarea { width: 100%; padding: 8px; margin-bottom: 10px; }
+    .contact-form button { padding: 10px 20px; background: #222; color: #fff; border: none; border-radius: 4px; cursor: pointer; }
+    .contact-form button:hover { background: #555; }
+    footer { background: #222; color: #fff; text-align: center; padding: 15px 0; margin-top: 40px; }
+  </style>
+</head>
+<body>
+  <header>
+    <h1>Amz autos Cars</h1>
+    <p>Your trusted source for quality vehicles</p>
+  </header>
+  <nav>
+    <a href="#cars">Cars for Sale</a>
+    <a href="#contact">Contact Us</a>
+    <a href="#about">About</a>
+  </nav>
+  <div class="container">
+    <section id="cars">
+      <h2>Cars for Sale</h2>
+      <table>
+        <tr>
+          <th>Model</th>
+          <th>Year</th>
+          <th>Mileage</th>
+          <th>Price</th>
+          <th>Description</th>
+        </tr>
+        <tr>
+          <td>Toyota Corolla</td>
+          <td>2019</td>
+          <td>32,000 km</td>
+          <td>xxx</td>
+          <td>Reliable, fuel-efficient sedan in excellent condition.</td>
+        </tr>
+        <tr>
+          <td>Honda Civic</td>
+          <td>2018</td>
+          <td>45,000 km</td>
+          <td>xxx</td>
+          <td>Sporty and comfortable, great for city driving.</td>
+        </tr>
+        <tr>
+          <td>Ford Focus</td>
+          <td>2021</td>
+          <td>15,000 km</td>
+          <td>xxx</td>
+          <td>Modern hatchback with advanced features and low mileage.</td>
+        </tr>
+        <tr>
+          <td>Chevrolet Malibu</td>
+          <td>2017</td>
+          <td>60,000 km</td>
+          <td>xxx</td>
+          <td>Spacious family car with smooth handling.</td>
+        </tr>
+      </table>
+    </section>
+    <section id="contact" class="contact-form">
+      <h2>Contact Us</h2>
+      <form>
+        <input type="text" name="name" placeholder="Your name" required>
+        <input type="email" name="email" placeholder="Your email" required>
+        <textarea name="message" placeholder="Your message" rows="4" required></textarea>
+        <button type="submit">Send Message</button>
+      </form>
+    </section>
+    <section id="about">
+      <h2>About Amz auto Cars</h2>
+      <p>
+        Amz auto Cars is dedicated to providing top-quality vehicles and excellent customer service.
+        Explore our selection and find your perfect car today!
+      </p>
+    </section>
+  </div>
+  <footer>
+    &copy; 2025 Amz Cars. All rights reserved.
+  </footer>
+</body>
+</html>
