@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @Amzy19
-- 👀 I’m interested in ... making money
-- 🌱 I’m currently learning ... How to operate in this place
+- 👋 Hi, I’m Amz
+- 👀 I’m interested in innovative solutions 
+- 🌱 I’m currently learning How to code html
 - 💞️ I’m looking to collaborate on ...anything
 - 📫 How to reach me ... textamzamz@gmail.com
 
